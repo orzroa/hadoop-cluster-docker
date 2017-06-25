@@ -72,6 +72,10 @@ Hadoop    1
 Hello    2
 ```
 
+Hadoop Management
+- NameNode: http://x8700:50070/
+- ResourceManager: http://x8700:8088/
+
 ### Arbitrary size Hadoop cluster
 
 ##### 1. pull docker images and clone github repository
